@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WDLT.Clients.Tradeit", "WDLT.Clients.Tradeit\WDLT.Clients.Tradeit.csproj", "{83BC1A34-B002-415F-860E-F17D1495F00F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WDLT.Clients.Base", "..\WDLT.Clients.Base\WDLT.Clients.Base\WDLT.Clients.Base.csproj", "{35C5674E-1A08-4DC3-AEFC-81F6B409A427}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83BC1A34-B002-415F-860E-F17D1495F00F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83BC1A34-B002-415F-860E-F17D1495F00F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83BC1A34-B002-415F-860E-F17D1495F00F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83BC1A34-B002-415F-860E-F17D1495F00F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35C5674E-1A08-4DC3-AEFC-81F6B409A427}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35C5674E-1A08-4DC3-AEFC-81F6B409A427}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35C5674E-1A08-4DC3-AEFC-81F6B409A427}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35C5674E-1A08-4DC3-AEFC-81F6B409A427}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6E6638C-DC81-4D3B-85A1-77E8F920800C}
+	EndGlobalSection
+EndGlobal
